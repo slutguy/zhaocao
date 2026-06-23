@@ -7,5 +7,7 @@ draft = false
 
 ### 简介 
 
+尊贵的女王为何会爱上熊零？爱情实在妙不可言。
+
 ![](https://github.com/slutguy/zhaocao/blob/master/themes/blowfish/assets/img/cao.jpg)
 
