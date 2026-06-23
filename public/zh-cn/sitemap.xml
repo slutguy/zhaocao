@@ -25,6 +25,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/posts/han-tutorial/</loc>
+    <lastmod>2025-12-10T15:57:03+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/posts/yadongwang-tutorial/</loc>
     <lastmod>2025-12-10T15:57:03+08:00</lastmod>
     <changefreq>daily</changefreq>
@@ -33,11 +39,6 @@
   <url>
     <loc>http://localhost:1313/about/</loc>
     <lastmod>2025-12-10T15:47:42+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/posts/han-tutorial/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
