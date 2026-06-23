@@ -7,4 +7,4 @@ draft = false
 
 ### 简介
 
-[](https://github.com/slutguy/zhaocao/tree/master/themes/blowfish/assets/img/bgg.jpg)
+![](https://github.com/slutguy/zhaocao/blob/master/themes/blowfish/assets/img/bgg.jpg?raw=true)
