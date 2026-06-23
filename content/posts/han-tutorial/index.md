@@ -7,4 +7,4 @@ draft = false
 
 ### 简介
 
-![](https://github.com/slutguy/zhaocao/blob/master/content/posts/han-tutorial/featured.jpg?raw=true)
+![](https://github.com/slutguy/zhaocao/blob/master/themes/blowfish/assets/img/zhao.jpg?raw=true)
