@@ -9,4 +9,6 @@ draft = false
 
 来自成都的熊零无故爱上了女王？生存还是毁灭？直男还是熊零，这是个问题。
 
+{{< youtubeLite id="GObq9dxnFUU" label="Blowfish-tools demo" >}}
+
 ![](https://github.com/slutguy/zhaocao/blob/master/themes/blowfish/assets/img/zhao.jpg?raw=true)
