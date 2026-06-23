@@ -15,11 +15,11 @@ title = "Home"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]
-  name = "Wu-Jia Han Hsiaohan"
+  name = "Hua love Yan btw"
   email = "volt@example.com"
   image = "img/han.jpg"
   imageQuality = 96
-  headline = "Hua love Yan btw"
+  headline = "I love you for all that you are, all that you have been and all that you’re yet to be."
   bio = "A little bit about you"
    links = [
      { email = "wuingnan@gmail.com" },
