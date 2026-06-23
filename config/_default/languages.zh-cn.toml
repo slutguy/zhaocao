@@ -9,17 +9,17 @@ title = "Home"
   isoCode = "zh-cn"
   rtl = false
   dateFormat = "2 January 2006"
-  logo = "img/blowfish_logo_transparent.png"
+  logo = "img/bg.jpg"
   # secondaryLogo = "img/secondary-logo.png"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]
-  name = "五家形象大使韩小寒"
+  name = "赵洪华与曹艳幸福时光"
   email = "volt@example.com"
   image = "img/han.jpg"
   imageQuality = 96
-  headline = "五家子欢迎您!"
+  headline = "真爱永恒!"
   bio = "A little bit about you"
    links = [
      { email = "mailto:hello@your_domain.com" },
